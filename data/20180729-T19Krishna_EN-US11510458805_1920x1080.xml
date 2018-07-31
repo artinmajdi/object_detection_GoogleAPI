@@ -1,0 +1,26 @@
+<annotation>
+	<folder>BingWallpaper</folder>
+	<filename>20180729-T19Krishna_EN-US11510458805_1920x1080.jpg</filename>
+	<path>/home/artin/Pictures/BingWallpaper/20180729-T19Krishna_EN-US11510458805_1920x1080.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tiger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>284</xmin>
+			<ymin>364</ymin>
+			<xmax>934</xmax>
+			<ymax>1010</ymax>
+		</bndbox>
+	</object>
+</annotation>
